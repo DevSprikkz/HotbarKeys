@@ -1,1 +1,2 @@
 HotbarKeys
+![](https://cdn.discordapp.com/attachments/536864118519496705/1404149782666023043/image.png?ex=689a23e4&is=6898d264&hm=9517e80bd96c2f73fb41315a8896c1da83d466f86aa5f6a81161d4deff5d14c7&)
