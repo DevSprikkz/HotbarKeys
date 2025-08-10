@@ -2,7 +2,7 @@
 {
   "modid": "hotbarkeys",
   "name": "HotbarKeys",
-  "description": "A mod that adds hotbar key functionality.",
+  "description": "Shows the key for each hotbar slot on screen.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
