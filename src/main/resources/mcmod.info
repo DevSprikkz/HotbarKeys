@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hotbarkeys",
+  "name": "HotbarKeys",
+  "description": "A mod that adds hotbar key functionality.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DevSprikkz"],
+  "credits": "The Forge and FML guys, for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
